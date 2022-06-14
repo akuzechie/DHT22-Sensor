@@ -1,0 +1,4 @@
+DHT22_Sensor	KEYWORD1
+getData	KEYWORD2
+getTemperature	KEYWORD2
+getHumidity	KEYWORD2
